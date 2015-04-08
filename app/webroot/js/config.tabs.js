@@ -1,0 +1,3 @@
+$(function() {
+		$( ".abas" ).tabs();
+	});

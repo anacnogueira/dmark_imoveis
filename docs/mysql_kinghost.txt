@@ -1,0 +1,3 @@
+https://mysql.kinghost.net/index.php
+user: dmarkimoveis
+senha: dmark123
